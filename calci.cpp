@@ -10,4 +10,7 @@ cout<<"addition is"<<c;
 f=e-f;
 cout<<"subtraction is"<<f;
 cout<<"END PLEASE :("
+cout<<"END PLEASE NOW!!!!!!!!! :("
+
 }
+
